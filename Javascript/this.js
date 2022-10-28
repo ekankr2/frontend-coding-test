@@ -1,4 +1,4 @@
-// 브라우저 환경에서 실행
+// Has to run on browser because of "window"
 
 var obj = {
     name: 'B',
@@ -17,4 +17,4 @@ var obj = {
 name = 'A';
 obj.print();
 
-// 예상되는 결과값은?
+// expected result?
