@@ -3,6 +3,7 @@
 
 ### Interview Questions
 * [리액트의 상태관리](questions/리액트의%20상태관리.md)
+* [리액트 문제](questions/리액트%20활용%20문제.md)
 * [변수 선언 방식 차이](questions/변수%20선언%20방식.md)
 * [브라우저 저장소](questions/브라우저저장소.md)
 
