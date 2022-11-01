@@ -18,3 +18,6 @@
 ### Template
 * [React Template](https://codesandbox.io/p/sandbox/wandering-rgb-x0x9kp?selection=%5B%7B%22endColumn%22%3A1%2C%22endLineNumber%22%3A7%2C%22startColumn%22%3A1%2C%22startLineNumber%22%3A7%7D%5D&file=%2Fsrc%2FApp.tsx)
 * [Vanilla JS Template](https://codesandbox.io/s/vanila-template-9pm5jx?file=/src/infiniteLoopPromise.js)
+
+### 대본
+* [대본](대본/index.md)
