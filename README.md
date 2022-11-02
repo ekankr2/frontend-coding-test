@@ -20,4 +20,4 @@
 * [Vanilla JS Template](https://codesandbox.io/s/vanila-template-9pm5jx?file=/src/infiniteLoopPromise.js)
 
 ### 대본
-* [대본](대본/index.md)
+* [대본](instructions/Korean.md)
