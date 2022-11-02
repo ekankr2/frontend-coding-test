@@ -16,7 +16,7 @@
 * [리액트 활용 관련 문제](questions/리액트%20활용%20문제.md)
 
 ### Template
-* [Template 폴더](template)
+* [Template folder](template)
 
-### 설명서
+### Interview process manual
 * [한글](instructions/Korean.md)
