@@ -1,8 +1,8 @@
 # 인터뷰 진행 설명서
-> [README.md](../README.md) 파일을 통해 진행한다.<br/>
+> [메인 README.md](../README.md), [template 폴더](../template)를 통해 진행한다.<br/>
 > <strong>준비물</strong> : 노트북 두 대<br/>
 > <strong>시간</strong> : 30분 내외<br/>
-> <strong>방법</strong> : [template](../template) 폴더를 Intellj로 열어서 'Code With Me' 기능으로 진행한다.
+> <strong>방법</strong> : [template](../template) 폴더를 IntellJ 'Code With Me'로 열어서 진행 
 
 - - - -
 > - 면접자에게 문제 정답을 설명해주는 것은 자유. <br/>

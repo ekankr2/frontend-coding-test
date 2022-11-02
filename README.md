@@ -16,8 +16,7 @@
 * [리액트 활용 관련 문제](questions/리액트%20활용%20문제.md)
 
 ### Template
-* [React Template](https://codesandbox.io/p/sandbox/wandering-rgb-x0x9kp?selection=%5B%7B%22endColumn%22%3A1%2C%22endLineNumber%22%3A7%2C%22startColumn%22%3A1%2C%22startLineNumber%22%3A7%7D%5D&file=%2Fsrc%2FApp.tsx)
-* [Vanilla JS Template](https://codesandbox.io/s/vanila-template-9pm5jx?file=/src/infiniteLoopPromise.js)
+* [Template 폴더](template)
 
-### 대본
-* [대본](instructions/Korean.md)
+### 설명서
+* [한글](instructions/Korean.md)
