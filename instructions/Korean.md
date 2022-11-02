@@ -1,9 +1,8 @@
-# 인터뷰 대본
+# 인터뷰 진행 설명서
 > [README.md](../README.md) 파일을 통해 진행한다.<br/>
 > <strong>준비물</strong> : 노트북 두 대<br/>
 > <strong>시간</strong> : 30분 내외<br/>
-> <strong>방법</strong> : 면접관은 이 문서와 template을, 면접자는 JS, React Template을 켜둔다.<br/>
-> &nbsp;&nbsp;&nbsp;같은 아이디로 template을 켜 둔다면, live editing이 가능하다.
+> <strong>방법</strong> : [template](../template) 폴더를 Intellj로 열어서 'Code With Me' 기능으로 진행한다.
 
 - - - -
 > - 면접자에게 문제 정답을 설명해주는 것은 자유. <br/>
@@ -42,9 +41,8 @@
    1. 상태 관리 라이브러리 질문을 한다.
       1. 아래의 연관 질문을 하는게 point.
       2. 상태 관리 라이브러리를 아무것도 사용해보지 않았다면 -1점
-   2. 리액트 활용 관련 문제를 함께 푼다.
-      1. [React Template](https://codesandbox.io/p/sandbox/wandering-rgb-x0x9kp?selection=%5B%7B%22endColumn%22%3A1%2C%22endLineNumber%22%3A7%2C%22startColumn%22%3A1%2C%22startLineNumber%22%3A7%7D%5D&file=%2Fsrc%2FApp.tsx)에서 라이브로 같이 품
-      2. 질문 & 응답을 하며 라이브 코딩 인터뷰를 진행.
+   2. [리액트 활용](../questions/리액트%20활용%20문제.md) 관련 문제를 함께 푼다.
+      1. 질문 & 응답을 하며 라이브 코딩 인터뷰를 진행.
    3. 활용 문제에 대한 점수판
       
 | 총 점수 | 설명                                |
