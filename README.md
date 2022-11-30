@@ -6,10 +6,7 @@
 * [브라우저 저장소의 종류와 차이점?](questions/브라우저저장소.md)
 
 ### JavaScript Questions
-* [Console with 0 sec timeout](Javascript/consoleOrderWithTimeout.js)
-* [Promise with infinite loop](Javascript/infiniteLoopPromise.js)
-* ['This' keyword](Javascript/this.js)
-* [let and const](Javascript/letConst.js)
+* [question list](Javascript/README.md)
 
 ### React Questions
 * [리액트의 상태관리 라이브러리](questions/리액트의%20상태관리.md)
