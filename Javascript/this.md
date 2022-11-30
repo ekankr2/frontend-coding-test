@@ -1,4 +1,11 @@
-// Has to run on browser because of "window"
+```javascript
+
+```
+
+
+### this syntax 
+
+```JavaScript
 
 var obj = {
     name: 'B',
@@ -18,3 +25,4 @@ name = 'A';
 obj.print();
 
 // expected result?
+```
