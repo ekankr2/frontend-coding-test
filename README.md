@@ -1,17 +1,21 @@
 # frontend-coding-test
 
->- Clone this project to get started.<br/>
-> <strong>need</strong> : laptops<br/>
-> <strong>time</strong> : 30minutes or less<br/>
-> <strong>how</strong> : Using ['Code With Me'](https://www.jetbrains.com/help/idea/code-with-me.html) on Fleet is the best practice. 
-> - It is good for the interviewer to know the answer to the question. <br/>
+- Clone this project to get started.
+
+**need** : laptops<br/>
+**time** : 30minutes or less<br/>
+**how** : Using ['Code With Me'](https://www.jetbrains.com/help/idea/code-with-me.html) on Fleet to interview is the best practice. 
+
+*It is good for the interviewer to know the answer to the question.*
 
 - - - -
 
-> - How it goes
-> 1. Introduce each other and ask basic questions
-> 2. Ask browser questions
-> 3. Ask JavaScript, React questions
+- How it goes
+```text
+1. Introduce each other and ask basic questions
+2. Ask browser questions
+3. Ask JavaScript, React questions
+```
 
 ## Interview questions
 * [Browser questions](questions/browser)
