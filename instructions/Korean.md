@@ -1,12 +1,11 @@
 # 인터뷰 진행 설명서
-> [메인 README.md](../README.md), [template 폴더](../template)를 통해 진행한다.<br/>
+> - 해당 프로젝트를 clone 하여 진행한다<br/>
 > <strong>준비물</strong> : 노트북 두 대<br/>
 > <strong>시간</strong> : 30분 내외<br/>
-> <strong>방법</strong> : [template](../template) 폴더를 IntellJ ['Code With Me'](https://www.jetbrains.com/help/idea/code-with-me.html)로 열어서 진행 
+> <strong>방법</strong> : Fleet의 ['Code With Me'](https://www.jetbrains.com/help/idea/code-with-me.html)기능을 활용해 Live coding을 진행한다. 
 
 - - - -
-> - 면접자에게 문제 정답을 설명해주는 것은 자유. <br/>
-> - 하지만 면접자가 답을 물어본다면 설명해줄 수 있어야 하기 때문에 면접관도 풀줄 알아야 함.
+> - 면접관은 문제에 대한 답을 숙지하고 있는 것이 좋다. <br/>
 
 
 0. 짧게 서로 소개한다.
