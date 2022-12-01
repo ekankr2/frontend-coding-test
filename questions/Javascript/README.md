@@ -11,7 +11,15 @@ const print = () => {
 print()
 // expected result?
 ```
+<details>
+<summary>Answer</summary>
 
+```javascript
+1
+3
+2
+```
+</details>
 
 ### promise
 
@@ -26,6 +34,14 @@ setTimeout(() => infiniteLoopPromise(20000), 0);
 
 // // expected Console result?
 ```
+
+<details>
+<summary>Answer</summary>
+
+```javascript
+infiniteLoopPromise: 10000
+```
+</details>
 
 ### let, const
 
@@ -53,6 +69,14 @@ console.log(constObject)
 // expected console result?
 ```
 
+<details>
+<summary>Answer</summary>
+
+```text
+{name: 'Park', age: 20}
+{name: 'Park', age: 20}
+```
+</details>
 
 ### this syntax 
 
@@ -76,3 +100,13 @@ obj.print();
 
 // expected result?
 ```
+
+<details>
+<summary>Answer</summary>
+
+```text
+A undefined
+B undefined
+A B C
+```
+</details>
