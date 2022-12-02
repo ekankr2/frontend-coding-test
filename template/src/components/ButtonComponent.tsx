@@ -1,4 +1,4 @@
-const CardComponent = () => {
+const ButtonComponent = () => {
     return (
         <div className="card">
             <button onClick={() => console.log("hello")}>hello</button>
@@ -6,4 +6,4 @@ const CardComponent = () => {
     );
 };
 
-export default CardComponent;
+export default ButtonComponent;

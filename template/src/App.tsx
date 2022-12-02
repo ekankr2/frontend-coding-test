@@ -1,6 +1,6 @@
 import { useState } from "react";
 import "./App.css";
-import CardComponent from "./components/CardComponent";
+import ButtonComponent from "./components/ButtonComponent";
 
 function App() {
     const [count, setCount] = useState(0);
@@ -15,7 +15,7 @@ function App() {
             <div className="card">
                 <button onClick={handleCount}>count is {count}</button>
             </div>
-            <CardComponent />
+            <ButtonComponent />
         </div>
     );
 }

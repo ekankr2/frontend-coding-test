@@ -4,9 +4,9 @@
 
 **need** : laptops<br/>
 **time** : 30minutes or less<br/>
-**how** : Using ['Code With Me'](https://www.jetbrains.com/help/idea/code-with-me.html) on Fleet to interview is the best practice. 
+**how** : Use ['Code With Me'](https://www.jetbrains.com/help/idea/code-with-me.html) on Fleet to live interview. 
 
-*It is good for the interviewer to know the answer to the question.*
+*It is good for the interviewer to know the answers to the questions.*
 
 - - - -
 
