@@ -12,9 +12,9 @@
 
 - How it goes
 ```text
-1. Introduce each other and ask basic questions
-2. Ask browser questions
-3. Ask JavaScript, React questions
+1. Introduce each other and ask common questions
+2. Ask browser, JavaScript questions
+3. Ask React questions
 ```
 
 ## Interview questions

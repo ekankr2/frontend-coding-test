@@ -1,6 +1,8 @@
 # JS 변수 선언 방식
 
-> JavaScript의 변수 선언 방식에는 어떤것이 있으며 차이점은 무엇인가요?
+```text
+JavaScript의 변수 선언 방식에는 어떤것이 있으며 차이점은 무엇인가요?
+```
 
 <details>
 <summary>답변</summary>
