@@ -1,4 +1,4 @@
-# frontend-coding-test
+# frontend-interview
 
 - Clone this project to get started.
 
