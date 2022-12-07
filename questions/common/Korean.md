@@ -9,9 +9,6 @@
 <details>
 <summary>꼬리질문</summary>
 
-#### JavaScript일 경우
-- 타입스크립트 관련 질문을 한다.
-
 #### JavaScript가 아닌 경우
 ```text
 프론트엔드 개발자를 희망하는데 자신있는 언어가 JS가 아닌 이유는 무엇인가요?
