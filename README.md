@@ -3,8 +3,8 @@
 - Clone this project to get started.
 
 **need** : laptops<br/>
-**time** : 30minutes or less<br/>
-**how** : Use ['Code With Me'](https://www.jetbrains.com/help/idea/code-with-me.html) on Fleet to live interview. 
+**time** : 30 minutes or less<br/>
+**how** : Use ['Code With Me'](https://www.jetbrains.com/help/idea/code-with-me.html) on IntelliJ to live interview. 
 
 *It is good for the interviewer to know the answers to the questions.*
 
