@@ -1,5 +1,5 @@
 
-### promise 
+### promise 1
 
 ```javascript
 const print = () => {
@@ -21,7 +21,7 @@ print()
 ```
 </details>
 
-### promise
+### promise 2
 
 ```javascript
 const infiniteLoopPromise = (time) => {
