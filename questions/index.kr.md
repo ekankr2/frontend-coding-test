@@ -70,14 +70,13 @@ JavaScript 성능 최적화를 위해 어떤 방법을 사용해보셨나요?
 
 # JavaScript Framework
 
+### 사용 이유
+
 ```text
 React, Vue와 같은 Framework를 사용하는 이유가 무엇이라고 생각하나요?
 ```
 
-<details>
-<summary>꼬리 질문</summary>
-
-#### 코딩 관습
+### 코딩 관습
 
 ```text
 해당 기술을 사용할 때 좋은 코드의 기준은 무엇이라고 생각하나요?
@@ -88,17 +87,15 @@ React, Vue와 같은 Framework를 사용하는 이유가 무엇이라고 생각�
 ```
 
 
-#### state management
+### state management
 
 ```text
 상태관리 라이브러리를 사용하는 이유는 무엇인가요?
 ```
 
 ```text
-어떤 기술을 사용하여 (어떤 방식으로) state를 관리해보셨나요?
+어떤 기술을 사용하여 어떤 방식으로 state를 관리해보셨나요?
 ```
-
-</details>
 
 # Browser
 
