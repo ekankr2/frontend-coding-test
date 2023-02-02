@@ -3,7 +3,7 @@
 ### 언어
 
 ```text
-가장 자신있는 언어가 무엇인가요?
+가장 자신있는 프로그래밍 언어가 무엇인가요?
 ```
 
 <details>
@@ -20,7 +20,7 @@
 ### 학습
 
 ```text
-프론트엔드는 변화가 빨라서 지속적으로 학습해야합니다.
+웹 분야는 변화가 빨라서 지속적으로 학습해야합니다.
 어떤 기술을 어떤식으로 학습하고 있나요?
 ```
 
@@ -52,43 +52,7 @@ JavaScript의 변수 선언 방식에는 어떤것이 있으며 차이점은 무
 
 </details>
 
-# JavaScript Framework
-
-```text
-React, Vue와 같은 Framework를 사용하는 이유가 무엇이라고 생각하나요?
-```
-
-<details>
-<summary>Framework 사용할 때 좋은 코드</summary>
-
-```text
-해당 기술을 사용할 때 만들 수 있는 좋은 코드란 무엇이라고 생각하나요?
-```
-
-```text
-방금 말한 내용을 본인의 프로젝트에 어떤식으로 적용하였나요?
-```
-
-</details>
-
-<details>
-<summary>state management</summary>
-
-#### state management
-
-```text
-상태관리 라이브러리를 사용하는 이유는 무엇인가요?
-```
-
-```text
-어떤 기술을 사용하여 (어떤 방식으로) state를 관리해보셨나요?
-```
-
-</details>
-
-
-
-### 성능 최적화
+### 성능 최적화 고민
 
 ```text
 JavaScript 성능 최적화를 위해 어떤 방법을 사용해보셨나요?
@@ -104,6 +68,37 @@ JavaScript 성능 최적화를 위해 어떤 방법을 사용해보셨나요?
 타입스크립트를 사용하는 이유가 무엇이라고 생각하나요?
 ```
 
+# JavaScript Framework
+
+```text
+React, Vue와 같은 Framework를 사용하는 이유가 무엇이라고 생각하나요?
+```
+
+<details>
+<summary>꼬리 질문</summary>
+
+#### 코딩 관습
+
+```text
+해당 기술을 사용할 때 좋은 코드의 기준은 무엇이라고 생각하나요?
+```
+
+```text
+방금 말한 내용을 본인의 프로젝트에 어떤식으로 적용하였나요?
+```
+
+
+#### state management
+
+```text
+상태관리 라이브러리를 사용하는 이유는 무엇인가요?
+```
+
+```text
+어떤 기술을 사용하여 (어떤 방식으로) state를 관리해보셨나요?
+```
+
+</details>
 
 # Browser
 
