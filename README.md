@@ -17,8 +17,8 @@
 3. Ask React questions
 ```
 
-## Interview questions
-* [Browser questions](questions/browser)
+## 면접 문제
+* [Browser questions](questions/[Frotend기술질문.md](questions%2FFrotend%EA%B8%B0%EC%88%A0%EC%A7%88%EB%AC%B8.md))
 * [JavaScript questions](questions/Javascript)
 * [React questions](questions/React)
 
