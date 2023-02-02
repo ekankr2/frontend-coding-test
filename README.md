@@ -10,19 +10,20 @@
 
 - - - -
 
-- How it goes
+### Order
 ```text
-1. Introduce each other and ask common questions
-2. Ask browser, JavaScript questions
-3. Ask React questions
+1. Ask interview questions from index.md file in questions folder
+2. Begin live coding interview with live coding folder
 ```
 
-## 면접 문제
-* [Browser questions](questions/[Frotend기술질문.md](questions%2FFrotend%EA%B8%B0%EC%88%A0%EC%A7%88%EB%AC%B8.md))
-* [JavaScript questions](questions/Javascript)
-* [React questions](questions/React)
+## 면접 질문
+* [Frontend 공통질문](questions/index.kr.md#frontend-common)
+* [JavaScript](questions/index.kr.md#javascript)
+* [JavaScript Framework](questions/index.kr.md#javascript-framework)
+* [TypeScript](questions/index.kr.md#typescript)
+* [Browser](questions/index.kr.md#browser)
 
-### React Template
+### React Template for live coding
 * [Template project](template)
 
 
